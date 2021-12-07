@@ -1,2 +1,2 @@
-# cm4twc-training
-Training material for learning how to use cm4twc
+# unifhy-training
+Training material for learning how to use `unifhy`.
